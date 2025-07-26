@@ -87,10 +87,10 @@
         
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 480px) {
         .clock {
-            gap: 50px;
-            transform: scale(0.3);
+            gap: 40px;
+            transform: scale(0.4);
             
         }
 
